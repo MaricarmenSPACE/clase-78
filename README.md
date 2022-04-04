@@ -1,6 +1,6 @@
-# PRO-C71-1_4-Codigo-Final
+# PRO_C71_RM3_1_4-Final
+Solución del código
 Referencia de la maestra
-Biblioteca digital
 
-Lesson Plan
+Plan de la clase.
 ## texto en inglés: Solution code for PRO-C71
