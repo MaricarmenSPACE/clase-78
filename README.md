@@ -1,2 +1,2 @@
-# PRO-C71-Final
-Solución del código de PRO-C71
+# PRO-C78-Final
+Solución del código de PRO-C78
